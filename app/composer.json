@@ -1,0 +1,15 @@
+{
+    "name": "vagrant/app",
+    "authors": [
+        {
+            "name": "ztl",
+            "email": "924172858@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "."
+        }
+    },
+    "require": {}
+}
